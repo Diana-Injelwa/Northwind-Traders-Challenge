@@ -21,6 +21,6 @@ The report also shows Sales trend per year, key customers, top performing produc
 
 Data source: Maven Analytics
 
-Tools used: Power BI, Excel
+Tools used: Power BI
 
-[Check out this interactive dashboard here](https://app.powerbi.com/reportEmbed?reportId=a3815964-626f-4c94-b4ce-79f50d6851f4&autoAuth=true&ctid=6e2cc058-79af-4df8-92e6-ee6e0d1dea3e)
+[View dashboard](https://mavenanalytics.io/project/5956)
